@@ -21,9 +21,6 @@ ILC is an affiliate marketing/MLM/Network based on smart contract fully decentra
 - [Smart20](https://tronscan.org/#/contract/TLzCxwY6geARqrd3Y6qBMPxzafLHk2xHYC/code)
 Smart20 is an affiliate marketing/MLM/Network based on smart contract fully decentralized deployed on TRON network blockchain.
 
-- [LXPLife](https://www.richlifex.io/app/)
-LXPLife is an affiliate marketing/MLM/Network based on smart contract fully decentralized deployed on BSC network blockchain.
-
 - [Heal.estate](https://www.heal.estate/app/#!/)
 Heal.estate is an affiliate marketing/MLM/Network based on smart contract fully decentralized deployed on BSC network blockchain.
 
